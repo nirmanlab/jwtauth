@@ -1,4 +1,4 @@
-module nirman/jwtauth
+module nirmanlab/jwtauth
 
 go 1.15
 
