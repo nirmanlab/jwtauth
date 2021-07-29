@@ -1,6 +1,6 @@
 # JwtAuth 
 
-this is not a library to create jwt token but a nice wrapper around existing https://github.com/dgrijalva/jwt-go to provide syntax sugar to it's users. 
+this is not a library to create jwt token but a nice wrapper around existing "github.com/golang-jwt/jwt" to provide syntax sugar to it's users. 
 
 It provides two types.
 
